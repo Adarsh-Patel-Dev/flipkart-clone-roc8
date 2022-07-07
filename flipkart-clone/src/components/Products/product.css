@@ -1,0 +1,10 @@
+.product-section{
+    width: 85vw;
+    background-color:white;
+    padding: 1rem;
+    margin: 10px 0;
+    height: auto;
+    display: flex;
+    gap: 1.4rem;
+    flex-wrap: wrap;
+}

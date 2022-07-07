@@ -1,0 +1,16 @@
+.asidebar{
+    width: 15vw;
+    background-color: white;
+    padding: 1rem;
+    margin: 10px;
+    height: 90vh;
+}
+
+.reset-btn{
+    background-color: #2874F0;
+    color: white;
+    font-weight: 600;
+    padding: 5px 20px;
+    border: transparent;
+    border-radius: 3px;
+}
